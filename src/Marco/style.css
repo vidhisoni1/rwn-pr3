@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.hero{
+    background-image: url(Images/hero-bg.jpg.webp);
+    height: 850px;
+    background-repeat: no-repeat;
+}
+.About{
+    padding :120px;
+}
+.menu{
+    padding: 120px;
+    background-color: #e4dede77;
+}
+.blog{
+    padding: 120px;
+}
+.date{
+    width: 100px;
+}
+.img:hover{
+ scale: 1.1;
+ transition: all 0.5s;
+}
+.footer{
+    padding: 120px;
+    /* background-color: #f42f2c; */
+}
+.input-group-btn{
+    left: 160px !important;
+}
